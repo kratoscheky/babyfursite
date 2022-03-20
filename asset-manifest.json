@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4fc63245.css",
+    "main.js": "./static/js/main.79a8268d.js",
+    "static/media/BABYFUR.svg": "./static/media/BABYFUR.89bc57f26ca416e9c6681ab4dbc6fa95.svg",
+    "index.html": "./index.html",
+    "main.4fc63245.css.map": "./static/css/main.4fc63245.css.map",
+    "main.79a8268d.js.map": "./static/js/main.79a8268d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fc63245.css",
+    "static/js/main.79a8268d.js"
+  ]
+}
